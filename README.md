@@ -1,4 +1,3 @@
-```markdown
 # AI Copilot (Bing AI)
 
 ## Originalprojekt (Vietnamesisch): [https://github.com/chokiproai/AI-Copilot](https://github.com/chokiproai/AI-Copilot)
@@ -47,4 +46,3 @@
 - [x] Chatverlauf
 - [x] Lokaler Export von Nachrichten (Markdown, Bilder, PDF)
 - [x] Einfache Zugangskontrolle
-```
