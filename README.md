@@ -1,48 +1,50 @@
-<h1 align="center">AI Copilot (Bing AI)</h1>
+```markdown
+# AI Copilot (Bing AI)
 
-## Original project (Vietnamese): https://github.com/chokiproai/AI-Copilot
+## Originalprojekt (Vietnamesisch): [https://github.com/chokiproai/AI-Copilot](https://github.com/chokiproai/AI-Copilot)
 
-## [Deploy on Hugging Face](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fgpt4en%3Fduplicate%3Dtrue)
+## [Bereitstellung auf Hugging Face](https://huggingface.co/login?next=%2Fspaces%2Fngoctuanai%2Fgpt4en%3Fduplicate%3Dtrue)
 
-## introduce
-- ⭐ Based on Microsoft New Bing, a Microsoft New Bing website custom built using Vue3 and Go. It provides a consistent user interface experience, supports ChatGPT prompts, and is essentially compatible with all features of Microsoft Bing AI. You don't need to log in to chat.
+## Einführung
+- ⭐ Basierend auf Microsoft New Bing, eine benutzerdefinierte Microsoft New Bing-Website, erstellt mit Vue3 und Go. Es bietet eine konsistente Benutzeroberfläche, unterstützt ChatGPT-Eingabeaufforderungen und ist im Wesentlichen kompatibel mit allen Funktionen von Microsoft Bing AI. Sie müssen sich nicht anmelden, um zu chatten.
 
-- ⭐ When using Bing official chat server (recommended speed and stability), you can refer to the following solutions:
+- ⭐ Bei Verwendung des offiziellen Bing-Chat-Servers (empfohlene Geschwindigkeit und Stabilität) können Sie sich auf die folgenden Lösungen beziehen:
 
-- ⭐ Chat Server (Default is "Cool Server"). The number of requests per day is limited to 100,000. This can be changed in Settings => Service Options in the upper right corner.
+- ⭐ Chat-Server (Standard ist "Cool Server"). Die Anzahl der Anfragen pro Tag ist auf 100.000 begrenzt. Dies kann in den Einstellungen => Serviceoptionen in der oberen rechten Ecke geändert werden.
 
-- ⭐Available (deployment server connects directly to www.bing.com, no CN redirection required, and connection can be configured)
+- ⭐ Verfügbar (Bereitstellungsserver verbindet sich direkt mit www.bing.com, keine CN-Umleitung erforderlich, und die Verbindung kann konfiguriert werden)
 
-- ⭐ Support open source ChatGPT prompt vocabulary
+- ⭐ Unterstützt Open-Source-ChatGPT-Prompt-Wortschatz
 
-- ⭐ When you need advanced features like drawing (need to give commands).
+- ⭐ Wenn Sie erweiterte Funktionen wie Zeichnen benötigen (Befehle müssen gegeben werden).
 
-- ⭐If you encounter any problems, please click on the lower left corner first! If it doesn't work, try refreshing it (Shift+F5 or Ctrl+Shift+R or select clear cookies in the upper right corner). The last tip is to clear the browser cache and cookies, such as (24-hour limit, prompt not logged in, etc.)
+- ⭐ Wenn Sie auf Probleme stoßen, klicken Sie bitte zuerst in der unteren linken Ecke! Wenn das nicht funktioniert, versuchen Sie es zu aktualisieren (Shift+F5 oder Ctrl+Shift+R oder wählen Sie Cookies löschen in der oberen rechten Ecke). Der letzte Tipp ist, den Browser-Cache und die Cookies zu löschen, wie zum Beispiel (24-Stunden-Limit, Aufforderung nicht angemeldet, usw.)
 
-- ⭐ Need to choose creative dialogue mode
+- ⭐ Muss den kreativen Dialogmodus wählen
 
-## Link
+## Links
 
->⭐[Chat AI](https://ngoctuanai-gpt4.hf.space)
+> ⭐ [Chat KI](https://ngoctuanai-gpt4.hf.space)
 
->⭐[Image Creator](https://ngoctuanai-gpt4.hf.space/create)
+> ⭐ [Bild-Ersteller](https://ngoctuanai-gpt4.hf.space/create)
 
 ## Video
 
->⭐[Chat AI](https://onedrive.live.com/embed?resid=750758803F9E18F7%21169&authkey=!AGg5_c6ntyVBk0s)
+> ⭐ [Chat KI](https://onedrive.live.com/embed?resid=750758803F9E18F7%21169&authkey=!AGg5_c6ntyVBk0s)
 
->⭐[Image Creator](https://onedrive.live.com/embed?resid=750758803F9E18F7%21170&authkey=!AA6KYWKRIIZ2_Ug)
+> ⭐ [Bild-Ersteller](https://onedrive.live.com/embed?resid=750758803F9E18F7%21170&authkey=!AA6KYWKRIIZ2_Ug)
 
-### How to get BING_COOKIE
+### Wie man BING_COOKIE bekommt
 
-> Configuring BING_COOKIE means you share your account with everyone who uses this service, the drawing function without logging in should set this variable.Open https://www.bing.com and Log in, then copy Cookie
+> BING_COOKIE konfigurieren bedeutet, dass Sie Ihr Konto mit allen teilen, die diesen Dienst nutzen. Die Zeichenfunktion ohne Anmeldung sollte diese Variable setzen. Öffnen Sie [https://www.bing.com](https://www.bing.com) und melden Sie sich an, dann kopieren Sie das Cookie.
 
 ![BING_COOKIE](https://cdn-uploads.huggingface.co/production/uploads/65126d4afdba96cc3c3e7498/WMjxkZs20Y3UyC2RDyfT3.png)
 
-## All
-- [x] Compose
-- [x] Vue3 refactoring
-- [x] suggested words
-- [x] Chat history
-- [x] Local export of messages (Markdown, images, PDF)
-- [x] Simple access control
+## Alles
+- [x] Komponieren
+- [x] Vue3-Überarbeitung
+- [x] vorgeschlagene Wörter
+- [x] Chatverlauf
+- [x] Lokaler Export von Nachrichten (Markdown, Bilder, PDF)
+- [x] Einfache Zugangskontrolle
+```
